@@ -1,5 +1,7 @@
 # [Jullay Ladakhi! Website](https://jullayladakhi.edsonfrainlar.com)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frainlar/jullay-ladakhi.svg)](https://greenkeeper.io/)
+
 This repository serves the source code for [edsonfrainlar.com](https://jullayladakhi.edsonfrainlar.com/). It follows the [JAMstack architecture](https://jamstack.org). Designed using [Bulma](https://bulma.io), and using [Render](https://render.com/) for continuous deployment.
 
 ## Main Sections
